@@ -2,3 +2,6 @@
 venv/
 .venv/
 env/
+dataset/
+generated/
+sprites_originals/
